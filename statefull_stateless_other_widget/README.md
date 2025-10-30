@@ -1,16 +1,51 @@
-# statefull_stateless_other_widget
+# Flutter Widget Türleri ve Örnekler
 
-A new Flutter project.
+Bu proje Flutter'da widget türlerini ve kullanımlarını öğrenmek için oluşturulmuş bir eğitim projesidir.
 
-## Getting Started
+## Proje İçeriği
 
-This project is a starting point for a Flutter application.
+Bu projede aşağıdaki Flutter konuları ele alınmıştır:
 
-A few resources to get you started if this is your first Flutter project:
+- Stateless Widgets
+- Stateful Widgets
+- Image Widget kullanımı
+- Button çeşitleri
+- Dropdown ve Popup menüler
+- Color Picker örneği
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Öğrenilen Kavramlar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- StatelessWidget ve StatefulWidget arasındaki farklar
+- setState() kullanımı
+- Widget yaşam döngüsü
+- Image.asset ve Image.network kullanımı
+- Buton türleri ve özellikleri
+- Dropdown ve PopupMenuButton kullanımı
+- Tema ve renk yönetimi
+
+## Proje Yapısı
+
+```
+lib/
+  ├── main.dart               # Ana uygulama dosyası
+  ├── buttons.dart            # Button örnekleri
+  ├── dropdown_popup.dart     # Dropdown ve Popup menü örnekleri
+  ├── image_widget.dart       # Image Widget kullanımı
+  ├── stateless_stateful.dart # Stateless ve Stateful widget örnekleri
+  └── color_picker_example/   # Color Picker uygulaması
+      ├── main.dart
+      ├── constans/
+      ├── pages/
+      ├── theme/
+      └── widgets/
+```
+
+## Örnek Ekran Görüntüleri
+
+Projenin çalışır haldeki ekran görüntüleri aşağıda paylaşılmıştır:
+
+![Ekran Görüntüsü 1](../ss/Screenshot_1761821775.png)
+![Ekran Görüntüsü 2](../ss/Screenshot_1761821731.png)
+![Ekran Görüntüsü 3](../ss/Screenshot_1761824319.png)
+![Ekran Görüntüsü 4](../ss/Screenshot_1761829401.png)
+![Ekran Görüntüsü 5](../ss/Screenshot_1761849429.png)

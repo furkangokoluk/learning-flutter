@@ -1,16 +1,26 @@
-# basic_concepts
+# Flutter Temel Kavramlar (Basic Concepts)
 
-A new Flutter project.
+Bu proje Flutter'ın temel kavramlarını öğrenmek için oluşturulmuş bir eğitim projesidir.
 
-## Getting Started
+## Proje İçeriği
 
-This project is a starting point for a Flutter application.
+Bu projede aşağıdaki Flutter temel kavramları ele alınmıştır:
 
-A few resources to get you started if this is your first Flutter project:
+- Widget yapısı ve türleri
+- Temel widget'lar (Text, Container, Row, Column vb.)
+- Layout widget'ları
+- Material Design bileşenleri
+- Flutter widget ağacı
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Proje Yapısı
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+lib/
+  ├── main.dart        # Ana uygulama dosyası
+```
+
+## Örnek Ekran Görüntüleri
+
+Projenin çalışır haldeki ekran görüntüleri aşağıda paylaşılmıştır:
+
+![Ekran Görüntüsü 1](../ss/Screenshot_1761755848.png)
