@@ -44,8 +44,8 @@ lib/
 
 Projenin çalışır haldeki ekran görüntüleri aşağıda paylaşılmıştır:
 
-![Ekran Görüntüsü 1](../ss/Screenshot_1761821775.png)
-![Ekran Görüntüsü 2](../ss/Screenshot_1761821731.png)
-![Ekran Görüntüsü 3](../ss/Screenshot_1761824319.png)
-![Ekran Görüntüsü 4](../ss/Screenshot_1761829401.png)
-![Ekran Görüntüsü 5](../ss/Screenshot_1761849429.png)
+<img src="../ss/Screenshot_1761821775.png" width="300" alt="Ekran Görüntüsü 1">  <img src="../ss/Screenshot_1761821731.png" width="300" alt="Ekran Görüntüsü 2">
+
+<img src="../ss/Screenshot_1761824319.png" width="300" alt="Ekran Görüntüsü 3">  <img src="../ss/Screenshot_1761829401.png" width="300" alt="Ekran Görüntüsü 4">
+
+<img src="../ss/Screenshot_1761849429.png" width="300" alt="Ekran Görüntüsü 5">
