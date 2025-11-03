@@ -32,7 +32,8 @@ class DropDownBtn extends StatefulWidget {
 
 class _DropDownBtnState extends State<DropDownBtn> {
 
-  var _cities =  ["Adana","Çorum","Bursa","Ankara","İstanbul"];
+  final _cities =  ["Adana","Çorum","Bursa","Ankara","İstanbul"];
+  // ignore: prefer_typing_uninitialized_variables
   var _selectedCity;
 
   @override
@@ -65,7 +66,7 @@ class PopupMenuBtn extends StatefulWidget {
 
 class _PopupMenuBtnState extends State<PopupMenuBtn> {
 
-  var _cities =  ["Adana","Çorum","Bursa","Ankara","İstanbul"];
+  final _cities =  ["Adana","Çorum","Bursa","Ankara","İstanbul"];
   var _selectedCity = "Ankara";
 
   @override

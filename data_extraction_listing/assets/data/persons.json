@@ -1,0 +1,25 @@
+{
+    "persons" : [
+        {
+            "id" : 1,
+            "name" : "Furkan",
+            "male" : true,
+            "likeColors" : ["mavi", "kırmızı", "yeşil"],
+            "address" : [
+                {"city" : "adana", "district" : "seyhan", "type" : "home"},
+                {"city" : "ankara", "district" : "çankaya" , "type": "work"}
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Tuana",
+            "male" : false,
+            "likeColors" : ["kırmızı", "pembe", "mor", "beyaz"],
+            "address" : [
+                {"city" : "çorum", "district" : "merkez", "type" : "home"},
+                {"city" : "gümüşhane", "district" : "merkez" , "type": "work"}
+            ]
+        }
+        
+    ]
+}

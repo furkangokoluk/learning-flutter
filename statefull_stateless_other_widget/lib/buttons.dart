@@ -30,12 +30,12 @@ class Buttons extends StatelessWidget {
               label: Text("Text Button İcon"),
               icon: Icon(Icons.add),
             ),
-            ElevatedButton(onPressed: () {}, 
-            child: Text("Elevated Button"),
+            ElevatedButton(onPressed: () {},
             style: ElevatedButton.styleFrom(
               backgroundColor: Colors.purple,
               foregroundColor: Colors.amber
-            ),
+            ), 
+            child: Text("Elevated Button"),
             ),
             ElevatedButton.icon(
               onPressed: () {},

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ImageWidgets extends StatelessWidget {
-  ImageWidgets({super.key});
+  const ImageWidgets({super.key});
 
   final _url =
       "https://media.licdn.com/dms/image/v2/D4D03AQGNfBs_L2ujyg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729858680504?e=2147483647&v=beta&t=T7dYH9EpcpAxJqhyFJMs2OZfF8W8f8gIJSOvDYcFFww";
