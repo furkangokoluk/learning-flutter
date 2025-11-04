@@ -23,4 +23,4 @@ lib/
 
 Projenin çalışır haldeki ekran görüntüleri aşağıda paylaşılmıştır:
 
-<img src="../ss/Screenshot_1761755848.png" width="300" alt="Ekran Görüntüsü 1">
+<img src="./ss/Screenshot_1761755848.png" width="300" alt="Ekran Görüntüsü 1">
